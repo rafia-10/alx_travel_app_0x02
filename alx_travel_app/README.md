@@ -1,4 +1,4 @@
-##Milestone 4: Payment Integration with Chapa API
+# Milestone 4: Payment Integration with Chapa API
 Overview
 Implemented a seamless payment system using Chapa’s API to handle bookings securely with real-time payment verification.
 
